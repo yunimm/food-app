@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.26.1",
     "vue": "^3.2.32",
-    "vue-router": "^4.0.14"
+    "vue-router": "^4.1.1"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.5.0",
